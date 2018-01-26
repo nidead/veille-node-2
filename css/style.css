@@ -21,10 +21,15 @@ body nav ul {
   display: flex;
   justify-content: space-around;
   list-style-type: none;
-  background: darkgrey;
-  color: white;
+  background: black;
+  
   padding: 5px;
   margin: 0;
+
+}
+
+body nav ul a{
+  color: white;
 }
 
 body footer {
