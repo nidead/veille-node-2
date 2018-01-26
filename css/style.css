@@ -22,7 +22,6 @@ body nav ul {
   justify-content: space-around;
   list-style-type: none;
   background: black;
-  
   padding: 5px;
   margin: 0;
 
@@ -31,6 +30,10 @@ body nav ul {
 body nav ul a{
   color: white;
   text-decoration: none;
+}
+body nav ul a:hover{
+  color: black;
+  background-color: white;
 }
 
 body footer {
