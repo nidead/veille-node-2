@@ -30,6 +30,7 @@ body nav ul {
 
 body nav ul a{
   color: white;
+  text-decoration: none;
 }
 
 body footer {
@@ -45,7 +46,6 @@ body footer {
 body main {
   display: flex;
   width: 100%;
-
 }
 
 body main section {
@@ -55,9 +55,10 @@ body main section {
   text-align: center;
   background: white;
   margin: 0 auto;
-   -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
--moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
-box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+  height: 0 auto;
+  -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+  box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
 
 }
 
