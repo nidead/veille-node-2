@@ -31,10 +31,7 @@ body nav ul a{
   color: white;
   text-decoration: none;
 }
-body nav ul a:hover{
-  color: black;
-  background-color: white;
-}
+
 
 body footer {
    position: absolute;
