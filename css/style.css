@@ -10,8 +10,20 @@ body header {
   text-align: center;
   padding: 20px;
   background: white;
+  margin: 0;
 }
 
 body header img{
   height: 100px;
 }
+
+body nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  background: darkgrey;
+  color: white;
+  padding: 5px;
+  margin: 0;
+}
+
