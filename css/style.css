@@ -56,3 +56,7 @@ body main section {
   background: white;
   margin: 0 auto;
 }
+
+body main section img{
+  width: 15%
+}
